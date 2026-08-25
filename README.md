@@ -1,4 +1,4 @@
-This is an Anglisized fork of the excellent Freecell game found here: https://github.com/kenjinote/FreeCell
+This is an Anglicised fork of the excellent Freecell game found here: https://github.com/kenjinote/FreeCell
 No fancy bells or whistles, just plain Freecell.
 
 I have converted all the menus to US English and also added a high-res card set and made the main program window resizable.  The Window contents and cards also resize with the main window unlike the original proogram.
